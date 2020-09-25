@@ -2,9 +2,9 @@
 layout: default
 ---
 
----
+
 ![hunger](hunger bug.PNG)
----
+
 
 # Kucen
 
@@ -18,5 +18,5 @@ Kucen is mean a bug name, he alway create the program bug for everyone
 
 ### Links
 
-* [菜園網址] (https://kucenchen3.wixsite.com/gofruit)
-- - -
+* [菜園網址](https://kucenchen3.wixsite.com/gofruit)
+
