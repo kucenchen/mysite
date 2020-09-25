@@ -2,9 +2,7 @@
 layout: default
 ---
 
-
 ![hunger](hunger bug.PNG)
-
 
 # Kucen
 
