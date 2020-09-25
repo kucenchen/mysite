@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](hunger bug.png)
 
 # Kucen
 
